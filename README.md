@@ -17,5 +17,8 @@ steps below
 
 ---
 
-Check out [@nvstly](https://github.com/nvstly), a free interactive [social investing platform](https://nvstly.com) where 
-traders can track, share, or copy trades with extensive insights on every position & in-depth performance stats.
+slapped together by [rich](https://richw.xyz) for [NVSTly](https://nvstly.com)'s [Stocktwits](https://nvstly.com/go/stocktwits) account
+
+Check out [@NVSTlyly](https://github.com/nvstly), a free interactive [social investing platform](https://nvstly.com) where 
+traders can track, share, or copy trades with extensive insights on every position & in-depth performance stats. Follow & 
+discover top ranked traders or compete against the best & climb the leaderboards.
